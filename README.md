@@ -1,15 +1,18 @@
-# Three Dimensional Array
+# Three-Dimensional Array
 
 ### Objective
-The project's main focus is understanding three-dimensional array, declaring them, accessing their elements using indexes.
+The project's main focus is understanding three-dimensional arrays, declaring them, and accessing their elements using indexes.
 
 ### Problem
-Create a 3D array called `elements` with dimensions 10x1x1 of type `char`.
+Create a 3D array called `elements` with 2x2x2 dimensions of type `char`.
 
 ### Implementation
-- Create an array `elements` with dimensions 10x1x1.
-- Initialize the array with default values of `\u0000` for each element.
-- Print the array. 
+- Create an array of `elements` with 2x2x2 dimensions.
+- Initialize the array with its default values.
+- Print the array.
+- Update an element of the array.
+- Print the array again.
+
 ``` java
 public class Main {
     public static void main(String[] args) {
