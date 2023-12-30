@@ -8,7 +8,7 @@ Create a 3D array called `elements` with dimensions 10x1x1 of type **char**.
 
 ### Implementation
 - Create an array `elements` with dimensions 10x1x1.
-- Initialize the array with default values (0.0 for each element).
+- Initialize the array with default values of `\u0000` for each element.
 - Print the array. 
 ``` java
 public class Main {
