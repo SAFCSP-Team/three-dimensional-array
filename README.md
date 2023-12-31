@@ -12,6 +12,7 @@ Create a 3D array called `elements` with 2x2x2 dimensions of type `char`.
 - Print the array.
 - Update an element of the array.
 - Print the array again.
+- Print the number of layers, rows, and columns using the length attribute.
 
 ``` java
 public class Main {
